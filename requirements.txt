@@ -7,3 +7,5 @@ chromadb==0.3.26
 streamlit
 pandas
 python-dotenv
+pydantic==2.0.0
+pydantic-settings==2.0.0
